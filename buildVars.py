@@ -29,7 +29,7 @@ addon_info = {
 	# Author(s)
 	"addon_author": "Sao Mai Technology team <tech@saomaicenter.org>",
 	# URL for the add-on documentation support
-	"addon_url": None,
+	"addon_url": "https://github.com/Sao-Mai-Center/SMB",
 	# Documentation file name
 	"addon_docFileName": None,
 	# Minimum NVDA version supported (e.g. "2018.3.0", minor version is optional)
