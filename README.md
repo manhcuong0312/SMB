@@ -10,7 +10,8 @@ More info about this program can be found at <https://www.saomaicenter.org/en/sm
 - compatible with NVDA 2022.4
 - Turkish translation added by Umut KORKMAZ
 
-- 2022.8: compatible with NVDA 2022.3
+## 2022.8
+- Compatible with NVDA 2022.3
 
 # Support and Feedback
 
