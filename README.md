@@ -37,4 +37,4 @@ Twitter: https://twitter.com/saomaicenter
 
 Facebook: [https://www.facebook.com/saomaicenterfortheblind](https://www.facebook.com/saomaicenterfortheblind)
 
-Youtube: [https://www.youtube.com/channel/UCMpZPissZ0-mXN6HSbfzs1](https://www.youtube.com/channel/UCMpZPissZ0-mXN6HSbfzs1A)
+Youtube: [https://www.youtube.com/@smcenter](https://www.youtube.com/@smcenter)
