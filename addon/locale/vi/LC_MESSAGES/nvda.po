@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: 'SMB' '1.0'\n"
 "Report-Msgid-Bugs-To: 'nvda-translations@groups.io'\n"
-"POT-Creation-Date: 2021-07-09 23:03+0700\n"
-"PO-Revision-Date: 2021-07-09 23:23+0700\n"
+"POT-Creation-Date: 2023-03-01 14:11+0700\n"
+"PO-Revision-Date: 2023-03-01 14:12+0700\n"
 "Last-Translator: Dang Manh Cuong <dangmanhcuong@gmail.com>\n"
 "Language-Team: Vietnamese <tech@saomaicenter.org>\n"
 "Language: vi\n"
@@ -21,11 +21,14 @@ msgstr ""
 #. Translators: Summary for this add-on
 #. to be shown on installation and add-on information found in Add-ons Manager.
 #: buildVars.py:23
-msgid "Add-on for Sao Mai Braille program."
-msgstr "Add-on cho phần mềm Sao Mai Braille."
+msgid "Sao Mai Braille (SMB)"
+msgstr "Sao Mai Braille (SMB)"
 
 #. Add-on description
 #. Translators: Long description to be shown for this add-on on add-on information from add-ons manager
 #: buildVars.py:26
 msgid "Add-on to make Sao Mai Braille Accessible to NVDA."
 msgstr "Add-on giúp Sao Mai Braille tiếp cận với NVDA."
+
+#~ msgid "Add-on for Sao Mai Braille program."
+#~ msgstr "Add-on cho phần mềm Sao Mai Braille."

@@ -20,12 +20,12 @@ addon_info = {
 	# Add-on summary, usually the user visible name of the addon.
 	# Translators: Summary for this add-on
 	# to be shown on installation and add-on information found in Add-ons Manager.
-	"addon_summary": _("Add-on for Sao Mai Braille program."),
+	"addon_summary": _("Sao Mai Braille (SMB)"),
 	# Add-on description
 	# Translators: Long description to be shown for this add-on on add-on information from add-ons manager
 	"addon_description": _("""Add-on to make Sao Mai Braille Accessible to NVDA."""),
 	# version
-    "addon_version": "23.2",
+    "addon_version": "23.3",
 	# Author(s)
 	"addon_author": "Sao Mai Technology team <tech@saomaicenter.org>",
 	# URL for the add-on documentation support
