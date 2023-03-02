@@ -5,10 +5,10 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: 'SMB' '22.8'\n"
+"Project-Id-Version: 'SMB' '23.3'\n"
 "Report-Msgid-Bugs-To: 'nvda-translations@groups.io'\n"
-"POT-Creation-Date: 2021-07-09 23:03+0700\n"
-"PO-Revision-Date: 2022-12-28 14:08+0300\n"
+"POT-Creation-Date: 2023-03-01 14:11+0700\n"
+"PO-Revision-Date: 2023-03-01 16:30+0300\n"
 "Last-Translator: Umut KORKMAZ <umutkork@gmail.com>\n"
 "Language-Team: Umut KORKMAZ <umutkork@gmail.com>\n"
 "Language: tr_TR\n"
@@ -23,11 +23,14 @@ msgstr ""
 #. Translators: Summary for this add-on
 #. to be shown on installation and add-on information found in Add-ons Manager.
 #: buildVars.py:23
-msgid "Add-on for Sao Mai Braille program."
-msgstr "Sao Mai Braille programı için eklenti."
+msgid "Sao Mai Braille (SMB)"
+msgstr "Sao Mai Braille (SMB)"
 
 #. Add-on description
 #. Translators: Long description to be shown for this add-on on add-on information from add-ons manager
 #: buildVars.py:26
 msgid "Add-on to make Sao Mai Braille Accessible to NVDA."
-msgstr "Sao Mai Braille'i NVDA için Erişilebilir hale getiren eklenti."
+msgstr "Sao Mai Braille programını NVDA için Erişilebilir hale getiren eklenti."
+
+#~ msgid "Add-on for Sao Mai Braille program."
+#~ msgstr "Sao Mai Braille programı için eklenti."
