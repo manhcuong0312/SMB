@@ -9,6 +9,8 @@ More info about this program can be found at <https://www.saomaicenter.org/en/sm
 Right now, this add-on just make NVDA reads smb's interface better, no extra functionality added so strings to translate is just add-on's description and this readme file. Both are not require. However, if you'd like, you can translate those via [SMB on Github](https://github.com/Sao-Mai-Center/SMB), on NVDA translation system, or contact us using info below.
 
 # Change log
+## 2023.9
+- compatible with NVDA 2023.2
 ## 2023.4
 - Fix issue with Turkish language, and now, add-on require NVDA 2022.1.0 or later
 
