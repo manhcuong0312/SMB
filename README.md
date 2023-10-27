@@ -34,6 +34,7 @@ Subscribe/follow our channels below:
 # Change log
 ## 2023.10
 - Tested on NVDA 2023.3.3
+- Move repository to a new account.
 - Edit readme file.
 
 ## 2023.9
