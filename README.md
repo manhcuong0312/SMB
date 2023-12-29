@@ -2,12 +2,42 @@
 Add-on for Sao Mai Braille program.
 
 Sao Mai Braille (SMB) is a free rich text editing and Braille translation software for Windows, developed by [Sao Mai Center for the Blind](https://www.saomaicenter.org/en).
-Right now, there are some accessibility issue that can't be fixed in the program itself so this small add-on will make NVDA screen reader more accessible to SMB's interface.
+Right now, there are some accessibility that can't be fixed in the program itself so this small add-on will make NVDA screen reader more accessible to SMB's interface.
 More info about this program can be found at <https://www.saomaicenter.org/en/smsoft/smb>
 
 # Translating add-on
 Right now, this add-on just make NVDA reads smb's interface better, no extra functionality added so strings to translate is just add-on's description and this readme file.
-Both are not require. However, if you'd like, you can translate those via [SMB on Github](https://github.com/manhcuong0312/SMB), or contact us using info below.
+Both are not require.
+However, if you'd like, you can translate those via [SMB on Github](https://github.com/manhcuong0312/SMB), or contact us using info below.
+
+# Change log
+## 2023.12
+- Compatiple with NVDA 2024.1
+- Updated readme file.
+
+## 2023.10
+- Compatiple with NVDA 2023.3
+- Moved Github repository to manhcuong0312's account
+
+## 2023.9
+- compatible with NVDA 2023.2
+
+## 2023.4
+- Fix issue with Turkish language, and now, add-on require NVDA 2022.1.0 or later
+
+## 2023.3
+- Corrected name and summary
+- Updated translation
+
+## 2023.2
+- compatible with NVDA 2023.1
+
+## 2023.1
+- compatible with NVDA 2022.4
+- Turkish translation added by Umut KORKMAZ
+
+## 2022.8
+- Compatible with NVDA 2022.3
 
 # Support and Feedback
 
@@ -30,29 +60,3 @@ Subscribe/follow our channels below:
 - Twitter: <https://twitter.com/saomaicenter>
 - Facebook: [https://www.facebook.com/saomaicenterfortheblind](https://www.facebook.com/saomaicenterfortheblind)
 - Youtube: <https://www.youtube.com/@smcenter>
-
-# Change log
-## 2023.10
-- Tested on NVDA 2023.3.3
-- Move repository to a new account.
-- Edit readme file.
-
-## 2023.9
-- compatible with NVDA 2023.2
-
-## 2023.4
-- Fix issue with Turkish language, and now, add-on require NVDA 2022.1.0 or later
-
-## 2023.3
-- Corrected name and summary
-- Updated translation
-
-## 2023.2
-- compatible with NVDA 2023.1
-
-## 2023.1
-- compatible with NVDA 2022.4
-- Turkish translation added by Umut KORKMAZ
-
-## 2022.8
-- Compatible with NVDA 2022.3
