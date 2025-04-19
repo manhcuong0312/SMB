@@ -1,5 +1,6 @@
 # SMB
-Add-on for Sao Mai Braille program.
+Add-on for Sao Mai Braille program.  
+Version 25.4
 
 Sao Mai Braille (SMB) is a free rich text editing and Braille translation software for Windows, developed by [Sao Mai Center for the Blind](https://www.saomaicenter.org/en).
 Right now, there are some accessibility that can't be fixed in the program itself so this small add-on will make NVDA screen reader more accessible to SMB's interface.
@@ -11,6 +12,11 @@ Both are not require.
 However, if you'd like, you can translate those via [SMB on Github](https://github.com/manhcuong0312/SMB), or contact us using info below.
 
 # Change log
+## 2025.4
+- Compatiple with NVDA 2025.1
+- Changed URL of add-on repository
+- Updated readme file.
+
 ## 2023.12
 - Compatiple with NVDA 2024.1
 - Updated readme file.
