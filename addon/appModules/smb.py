@@ -5,14 +5,14 @@ import NVDAObjects.window
 import keyboardHandler #use to send keystroke to SMB program
 import time
 import scriptHandler
-from scriptHandler import script #add a category into the Input Gestures dialog
-#import ui #debug
+from scriptHandler import script
+#from core import callLater
+#import ui #test and debug
 
 # the next two lines make this add-on translatable
 import addonHandler
 addonHandler.initTranslation()
 
-script_category = "SMB"
 
 class AppModule(appModuleHandler.AppModule):
            
@@ -30,7 +30,6 @@ class AppModule(appModuleHandler.AppModule):
     @script(
     # Translators: Describes the Insert equation dialog.
         description = _("Call Insert equation dialog the old way."),
-        category = script_category,
         gesture = "kb:alt+f9")
         
     def script_InsertEquation (self, gesture):
@@ -41,7 +40,6 @@ class AppModule(appModuleHandler.AppModule):
     @script(
     # Translators: Describes the Insert picture dialog.
         description = _("Call Insert picture dialog the old way."),
-        category = script_category,
         gesture = "kb:alt+f10")
 
     def script_InsertPicture (self, gesture):
@@ -52,7 +50,6 @@ class AppModule(appModuleHandler.AppModule):
     @script(
     # Translators: Describes the Insert Music Score  dialog.
         description = _("Call Insert Music Score  dialog the old way."),
-        category = script_category,
         gesture = "kb:alt+f11")
 
     def script_InsertMusicScore (self, gesture):
