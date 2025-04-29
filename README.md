@@ -1,5 +1,5 @@
 # SMB
-Add-on for Sao Mai Braille program.  
+NVDA add-on for Sao Mai Braille program.  
 Version 25.4.2  
 Copyright 2022 - 2025 by Sao Mai Technology Team
 
@@ -23,7 +23,29 @@ That said, we still encourage you to use the new shortcuts because of the benefi
 # Translating add-on
 Right now, this add-on just make NVDA reads smb's interface better, no extra functionality added so strings to translate is just add-on's description and this readme file.
 Both are not require.
-However, if you'd like, you can translate those via [SMB on Github](https://github.com/manhcuong0312/SMB), or contact us using info below.
+However, if you'd like, you can translate those via [SMB on Github](https://github.com/manhcuong0312/SMB), or contact us using info in the support and featback section.
+
+# Support and Feedback
+
+We are a small non-profit organization based in Vietnam.
+We mainly rely on project grants to carry out activities to support for visually impaired people.
+We need your help to keep the work going on to better support the visually impaired people.
+
+Please get in touch with us for any matters with the contact info below:
+
+Sao Mai Center for the Blind
+
+- Address: 52/22 Huynh Thien Loc, Hoa Thanh, Tan Phu, HCM, Vietnam.
+- Email: [support@saomaicenter.org](mailto:support@saomaicenter.org)
+- Contact for translating add-on: [tech@saomaicenter.org](mailto:tech@saomaicenter.org)
+Website: <https://saomaicenter.org/en>
+
+Subscribe/follow our channels below:
+- Subscribe to receive announcements from us by sending a blank email to: news+subscribe@saomaicenter.org
+- Email discussion list: <https://groups.io/g/smcb>
+- Twitter: <https://twitter.com/saomaicenter>
+- Facebook: [https://www.facebook.com/saomaicenterfortheblind](https://www.facebook.com/saomaicenterfortheblind)
+- Youtube: <https://www.youtube.com/@smcenter>
 
 # Change log
 
@@ -63,25 +85,3 @@ However, if you'd like, you can translate those via [SMB on Github](https://gith
 
 ## 2022.8
 - Compatible with NVDA 2022.3
-
-# Support and Feedback
-
-We are a small non-profit organization based in Vietnam.
-We mainly rely on project grants to carry out activities to support for visually impaired people.
-We need your help to keep the work going on to better support the visually impaired people.
-
-Please get in touch with us for any matters with the contact info below:
-
-Sao Mai Center for the Blind
-
-- Address: 52/22 Huynh Thien Loc, Hoa Thanh, Tan Phu, HCM, Vietnam.
-- Email: [support@saomaicenter.org](mailto:support@saomaicenter.org)
-- Contact for translating add-on: [tech@saomaicenter.org](mailto:tech@saomaicenter.org)
-Website: <https://saomaicenter.org/en>
-
-Subscribe/follow our channels below:
-- Subscribe to receive announcements from us by sending a blank email to: news+subscribe@saomaicenter.org
-- Email discussion list: <https://groups.io/g/smcb>
-- Twitter: <https://twitter.com/saomaicenter>
-- Facebook: [https://www.facebook.com/saomaicenterfortheblind](https://www.facebook.com/saomaicenterfortheblind)
-- Youtube: <https://www.youtube.com/@smcenter>
