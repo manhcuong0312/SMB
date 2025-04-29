@@ -1,10 +1,22 @@
 # SMB
 Add-on for Sao Mai Braille program.  
-Version 25.4
+Version 25.4.2
 
 Sao Mai Braille (SMB) is a free rich text editing and Braille translation software for Windows, developed by [Sao Mai Center for the Blind](https://www.saomaicenter.org/en).
 Right now, there are some accessibility that can't be fixed in the program itself so this small add-on will make NVDA screen reader more accessible to SMB's interface.
 More info about this program can be found at <https://www.saomaicenter.org/en/smsoft/smb>
+
+# Old hotkeys compatiple
+In future releases, we will remove old shortcuts such as Alt+F9 for opening the Insert equation dialog, Alt+F10 for opening the Insert Picture dialog, and Alt+F11 for opening the Insert Music Score dialog.
+Instead, we'll use:
+- Ctrl+Shift+Q:  Insert equation dialog
+- Ctrl+Shift+G: Insert Picture dialog
+- Ctrl+Shift+M: Insert Music Score
+
+This make easier to remember.
+However, users may already be familiar with the old shortcuts.
+Therefore, this add-on has integrated the old command keys so you can use both types of shortcuts in parallel.
+That said, we still encourage you to use the new shortcuts because of the benefits they bring.
 
 # Translating add-on
 Right now, this add-on just make NVDA reads smb's interface better, no extra functionality added so strings to translate is just add-on's description and this readme file.
@@ -12,6 +24,10 @@ Both are not require.
 However, if you'd like, you can translate those via [SMB on Github](https://github.com/manhcuong0312/SMB), or contact us using info below.
 
 # Change log
+
+## 2025.4.2
+- New and old hotkey compatiple.
+
 ## 2025.4
 - Compatiple with NVDA 2025.1
 - Changed URL of add-on repository
