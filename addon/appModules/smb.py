@@ -1,5 +1,5 @@
 #Small add-on to make the main windows of Sao Mai Braille program accessible to NVDA
-#Written by Sao Mai technology team
+#Copyright 2022 - 2025 by Sao Mai technology team
 import appModuleHandler
 import NVDAObjects.window
 import keyboardHandler #use to send keystroke to SMB program
