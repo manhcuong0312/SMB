@@ -9,6 +9,7 @@ More info about this program can be found at <https://www.saomaicenter.org/en/sm
 # Old hotkeys compatiple
 In future releases, we will remove old shortcuts such as Alt+F9 for opening the Insert equation dialog, Alt+F10 for opening the Insert Picture dialog, and Alt+F11 for opening the Insert Music Score dialog.
 Instead, we'll use:
+
 - Ctrl+Shift+Q:  Insert equation dialog
 - Ctrl+Shift+G: Insert Picture dialog
 - Ctrl+Shift+M: Insert Music Score
