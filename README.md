@@ -21,10 +21,9 @@ Therefore, this add-on has integrated the old command keys so you can use both t
 That said, we still encourage you to use the new shortcuts because of the benefits they bring.
 
 # Translating add-on
-Right now, this add-on just make NVDA reads smb's interface better, no extra functionality added so strings to translate is just add-on's description and this readme file.
-Both are not require.
-However, if you'd like, you can translate those via [SMB on Github](https://github.com/manhcuong0312/SMB), or contact us using info in the support and featback section.
-
+Currently, this add-on contains strings for the input help message of the old SMB hotkeys, as well as this README file.
+You can translate them via [SMB on GitHub](https://github.com/manhcuong0312/SMB),
+or contact us using the information in the Support and Feedback section if you're not familiar with that platform.
 # Support and Feedback
 
 We are a small non-profit organization based in Vietnam.
