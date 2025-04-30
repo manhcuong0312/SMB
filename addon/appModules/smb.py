@@ -7,7 +7,7 @@ import time
 import scriptHandler
 from scriptHandler import script
 #from core import callLater
-#import ui #test and debug
+import ui #test and debug
 
 # the next two lines make this add-on translatable
 import addonHandler

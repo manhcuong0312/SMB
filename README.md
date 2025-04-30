@@ -7,22 +7,27 @@ Sao Mai Braille (SMB) is a free rich text editing and Braille translation softwa
 Right now, there are some accessibility that can't be fixed in the program itself so this small add-on will make NVDA screen reader more accessible to SMB's interface.
 More info about this program can be found at <https://www.saomaicenter.org/en/smsoft/smb>
 
-# Old hotkeys compatiple
-In future releases, we will remove old shortcuts such as Alt+F9 for opening the Insert equation dialog, Alt+F10 for opening the Insert Picture dialog, and Alt+F11 for opening the Insert Music Score dialog.
+# Hotkeys Deprecated
+Since version 25.4, the following hotkey will be deprecated:
+
+- Alt+F9: Insert equation dialog
+- Alt+F10: Insert Picture dialog
+Alt+F11: Insert Music Score
+
 Instead, we'll use:
 
 - Ctrl+Shift+Q:  Insert equation dialog
 - Ctrl+Shift+G: Insert Picture dialog
 - Ctrl+Shift+M: Insert Music Score
 
-This make easier to remember.
-However, users may already be familiar with the old shortcuts.
+This could be easier to remember.
+However, users may already be familiar with the old hotkeys.
 Therefore, this add-on has integrated the old command keys so you can use both types of shortcuts in parallel.
 That said, we still encourage you to use the new shortcuts because of the benefits they bring.
 
 # Translating add-on
 Currently, this add-on contains strings for the input help message of the old SMB hotkeys, as well as this README file.
-You can translate them via [SMB on GitHub](https://github.com/manhcuong0312/SMB),
+You can translate them via [SMB repository on GitHub](https://github.com/manhcuong0312/SMB),
 or contact us using the information in the Support and Feedback section if you're not familiar with that platform.
 # Support and Feedback
 
@@ -49,8 +54,8 @@ Subscribe/follow our channels below:
 # Change log
 
 ## 2025.4.2
-- New and old hotkey compatiple.
-- Updated readme file
+- Added feature to use new, and hold SMB's hotkey together.
+- Updated readme file.
 
 ## 2025.4
 - Compatiple with NVDA 2025.1
