@@ -8,7 +8,7 @@ Right now, there are some accessibility that can't be fixed in the program itsel
 More info about this program can be found at <https://www.saomaicenter.org/en/smsoft/smb>
 
 # Hotkeys Deprecated
-Since SMB version 25.4, the following hotkey will be deprecated:
+Since SMB version 25.5, the following hotkey will be deprecated:
 
 - Alt+F9: Insert equation dialog
 - Alt+F10: Insert Picture dialog
