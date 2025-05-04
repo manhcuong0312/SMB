@@ -12,7 +12,7 @@ Since version 25.4, the following hotkey will be deprecated:
 
 - Alt+F9: Insert equation dialog
 - Alt+F10: Insert Picture dialog
-Alt+F11: Insert Music Score
+- Alt+F11: Insert Music Score
 
 Instead, we'll use:
 
@@ -52,6 +52,9 @@ Subscribe/follow our channels below:
 - Youtube: <https://www.youtube.com/@smcenter>
 
 # Change log
+
+## 2025.5
+- Updated add-on template to March 2025 version
 
 ## 2025.4.2
 - Added feature to use new, and hold SMB's hotkey together.

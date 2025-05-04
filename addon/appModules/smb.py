@@ -12,6 +12,7 @@ import ui #test and debug
 # the next two lines make this add-on translatable
 import addonHandler
 addonHandler.initTranslation()
+script_category = "SMB"
 
 
 class AppModule(appModuleHandler.AppModule):
@@ -28,8 +29,9 @@ class AppModule(appModuleHandler.AppModule):
         nextHandler()
 
     @script(
-    # Translators: Describes the Insert equation dialog.
+        # Translators: Describes the Insert equation dialog.
         description = _("Call Insert equation dialog the old way."),
+        category = script_category,
         gesture = "kb:alt+f9")
         
     def script_InsertEquation (self, gesture):
