@@ -12,7 +12,7 @@ Since SMB version 25.5, the following hotkey will be deprecated:
 
 - Alt+F9: Insert equation dialog
 - Alt+F10: Insert Picture dialog
-- Alt+F11: Insert Music Score
+- Alt+F11: Insert Music Score dialog
 
 Instead, we'll use:
 
@@ -29,6 +29,7 @@ That said, we still encourage you to use the new shortcuts because of the benefi
 Currently, this add-on contains strings for the input help message of the old SMB hotkeys, as well as this README file.
 You can translate them via [SMB repository on GitHub](https://github.com/manhcuong0312/SMB),
 or contact us using the information in the Support and Feedback section if you're not familiar with that platform.
+
 # Support and Feedback
 
 We are a small non-profit organization based in Vietnam.
@@ -37,18 +38,18 @@ We need your help to keep the work going on to better support the visually impai
 
 Please get in touch with us for any matters with the contact info below:
 
-Sao Mai Center for the Blind
+Sao Mai Center for the Blind (SMCB)
 
 - Address: 52/22 Huynh Thien Loc, Hoa Thanh, Tan Phu, HCM, Vietnam.
 - Email: [support@saomaicenter.org](mailto:support@saomaicenter.org)
-- Contact for translating add-on: [tech@saomaicenter.org](mailto:tech@saomaicenter.org)
+- Contact for translating this add-on: [tech@saomaicenter.org](mailto:tech@saomaicenter.org)
 Website: <https://saomaicenter.org/en>
 
 Subscribe/follow our channels below:
 - Subscribe to receive announcements from us by sending a blank email to: news+subscribe@saomaicenter.org
 - Email discussion list: <https://groups.io/g/smcb>
 - Twitter: <https://twitter.com/saomaicenter>
-- Facebook: [https://www.facebook.com/saomaicenterfortheblind](https://www.facebook.com/saomaicenterfortheblind)
+- Facebook: [fb.com/SaoMaiForTheBlind](https://www.facebook.com/saomaifortheblind)
 - Youtube: <https://www.youtube.com/@smcenter>
 
 # Change log
