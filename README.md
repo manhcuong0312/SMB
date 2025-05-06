@@ -57,6 +57,7 @@ Subscribe/follow our channels below:
 ## 2025.5
 - Updated add-on template to March 2025 version
 - Make input help of three deprecated hotkeys translatable
+- Added Vietnamese readme
 - Updated readme file
 
 ## 2025.4.2
