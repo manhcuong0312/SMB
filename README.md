@@ -54,6 +54,10 @@ Subscribe/follow our channels below:
 
 # Change log
 
+## 2025.5.22
+- If user press the deprecated keys at the wrong place, such as no document existed, an alert message will be spoken.
+
+
 ## 2025.5
 - Updated add-on template to March 2025 version
 - Make input help of three deprecated hotkeys translatable

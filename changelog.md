@@ -1,7 +1,8 @@
 # Change log for Sao Mai Braille (SMB) NVDA add-on
+## 2025.5.22
+- If user press the deprecated keys at the wrong place, such as no document existed, an alert message will be spoken.
 
 ## 2025.5
-- Use Mar 2025 add-on template
 - Updated add-on template to March 2025 version
 - Make input help of three deprecated hotkeys translatable
 - Added Vietnamese readme
