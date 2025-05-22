@@ -59,6 +59,9 @@ Sao Mai Vì Người Mù
 
 # Nhật ký thay đổi
 
+## 2025.5.22
+- Cảnh báo đến người dùng nếu dùng các phím tắt cũ khi chưa tạo tài liệu .smd hoặc .smb
+
 ## 2025.5
 
 * Cập nhật mẫu tiện ích bổ sung theo phiên bản tháng 3/2025
@@ -111,7 +114,3 @@ Sao Mai Vì Người Mù
 ## 2022.8
 
 * Tương thích với NVDA 2022.3
-
----
-
-Bạn có muốn tôi giúp chuyển phần này sang định dạng PDF hoặc tài liệu Word không?

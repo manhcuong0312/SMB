@@ -25,7 +25,7 @@ addon_info = {
 	# Translators: Long description to be shown for this add-on on add-on information from add-on store
 	"addon_description": _("""Add-on to make Sao Mai Braille Accessible to NVDA."""),
 	# version
-	"addon_version": "25.5",
+	"addon_version": "25.5.22",
 	# Author(s)
 	"addon_author": "Sao Mai Technology team <tech@saomaicenter.org>",
 	# URL for the add-on documentation support
