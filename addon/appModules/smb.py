@@ -1,7 +1,7 @@
 """
 Small add-on to make the main windows of Sao Mai Braille program accessible to NVDA
 Copyright 2022 - 2025 by Sao Mai technology team
-Last updated: May 22, 2025
+Last updated: June 30, 2025
 """
 
 import appModuleHandler
@@ -55,6 +55,7 @@ class AppModule(appModuleHandler.AppModule):
     @script(
         # Translators: Describes the Insert picture dialog.
         description=_("Call Insert picture dialog the old way."),
+        category=script_category,
         gesture="kb:alt+f10"
     )
     def script_InsertPicture(self, gesture):
@@ -67,6 +68,8 @@ class AppModule(appModuleHandler.AppModule):
     @script(
         # Translators: Describes the Insert Music Score dialog.
         description=_("Call Insert Music Score dialog the old way."),
+        category=script_category,
+
         gesture="kb:alt+f11"
     )
     def script_InsertMusicScore(self, gesture):

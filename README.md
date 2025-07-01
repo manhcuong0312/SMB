@@ -1,6 +1,6 @@
 # SMB
 NVDA add-on for Sao Mai Braille program.  
-Version 25.5.22  
+Version 25.7  
 Copyright 2022 - 2025 by Sao Mai Technology Team
 
 Sao Mai Braille (SMB) is a free rich text editing and Braille translation software for Windows, developed by [Sao Mai Center for the Blind](https://www.saomaicenter.org/en).
@@ -23,6 +23,9 @@ Instead, we'll use:
 This could be easier to remember.
 However, users may already be familiar with the old hotkeys.
 Therefore, this add-on has integrated the old command keys so you can use both types of shortcuts in parallel.
+
+Starting from version 25.7 of this add-on, we added SMB hotkeys to a script category called "smb", allowing users to customize them through NVDA's Input Gestures dialog when the focus is on Sao Mai Braille window.
+
 That said, we still encourage you to use the new shortcuts because of the benefits they bring.
 
 # Translating add-on
@@ -54,9 +57,12 @@ Subscribe/follow our channels below:
 
 # Change log
 
+## 2025.7
+- Added SMB's hotkeys to a script category called "smb", allowing users to customize them while the focus is on  Sao Mai Braille window.
+- Compatiple with NVDA 2025.2
+
 ## 2025.5.22
 - If user press the deprecated keys at the wrong place, such as no document existed, an alert message will be spoken.
-
 
 ## 2025.5
 - Updated add-on template to March 2025 version

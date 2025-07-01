@@ -1,7 +1,7 @@
 # SMB
 
 NVDA add-on cho phần mềm Sao Mai Braille  
-Phiên bản 25.5.22  
+Phiên bản 25.7  
 Bản quyền 2022 - 2025 bởi Nhóm Công Nghệ Sao Mai
 
 Sao Mai Braille (SMB) là phần mềm soạn thảo văn bản định dạng và chuyển dịch chữ nổi miễn phí, phát triển bởi
@@ -27,6 +27,9 @@ Thay vào đó, chúng tôi sẽ sử dụng:
 Điều này có thể giúp người dùng dễ ghi nhớ hơn.
 Tuy nhiên, nhiều người dùng có thể đã quen với các phím tắt cũ.
 Vì vậy, add-on này đã tích hợp các phím lệnh cũ để bạn có thể sử dụng song song cả hai kiểu phím tắt.
+
+Từ phiên bản 25.7 của add-on này, chúng tôi thêm phím tắt của SMB vào phân loại tên SMB để người dùng có thể tùy chỉnh chúng thông qua hộp thoại Quản Lý Thao Tác của NVDA khi đứng tại cửa sổ Sao Mai Braille.
+
 Tuy nhiên, chúng tôi vẫn khuyến khích bạn dùng các phím tắt mới vì những lợi ích mà chúng mang lại.
 
 # Dịch add-on
@@ -57,7 +60,11 @@ Sao Mai Vì Người Mù
 - Facebook: [fb.com/SaoMaiForTheBlind](https://www.facebook.com/saomaifortheblind)
 - Youtube: [https://www.youtube.com/@smcenter](https://www.youtube.com/@smcenter)
 
-# Nhật ký thay đổi
+# Nhật Kí thay đổi
+
+## 2025.7
+- Thêm phím tắt của SMB vào phân loại tên SMB để người dùng có thể tùy chỉnh chúng thông qua hộp thoại Quản Lý Thao Tác của NVDA khi đứng tại cửa sổ Sao Mai Braille.
+- Tương thích với NVDA 2025.2.
 
 ## 2025.5.22
 - Cảnh báo đến người dùng nếu dùng các phím tắt cũ khi chưa tạo tài liệu .smd hoặc .smb
