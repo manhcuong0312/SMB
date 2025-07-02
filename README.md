@@ -58,7 +58,9 @@ Subscribe/follow our channels below:
 # Change log
 
 ## 2025.7.2
+
 - Updated input help for SMB's hotkeys
+- Updated Vietnamese translation. Name of Insert Equation, Insert Picture, and Insert Music Score now matched the SMB' Vietnamese interface.
 
 ## 2025.7
 - Added SMB's hotkeys to a script category called "smb", allowing users to customize them while the focus is on  Sao Mai Braille window.

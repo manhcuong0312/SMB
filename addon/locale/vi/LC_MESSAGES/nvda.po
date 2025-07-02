@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: 'SMB' '1.0'\n"
 "Report-Msgid-Bugs-To: 'nvda-translations@groups.io'\n"
 "POT-Creation-Date: 2025-07-02 10:11+0700\n"
-"PO-Revision-Date: 2025-07-02 10:23+0700\n"
+"PO-Revision-Date: 2025-07-02 14:12+0700\n"
 "Last-Translator: Dang Manh Cuong <dangmanhcuong@gmail.com>\n"
 "Language-Team: Vietnamese <tech@saomaicenter.org>\n"
 "Language: vi\n"
@@ -20,17 +20,17 @@ msgstr ""
 #. Translators: Describes the Insert equation dialog.
 #: addon\appModules\smb.py:44
 msgid "Call Insert equation dialog using Deprecated hotkey."
-msgstr "Gọi hộp thoại Insert equation bằng phím tắt cũ."
+msgstr "Gọi hộp thoại Chèn Biểu Thức bằng phím tắt cũ."
 
 #. Translators: Describes the Insert picture dialog.
 #: addon\appModules\smb.py:57
 msgid "Call Insert picture dialog using Deprecated hotkey."
-msgstr "Gọi hộp thoại Insert picture bằng phím tắt cũ."
+msgstr "Gọi hộp thoại Chèn Hình Ảnh bằng phím tắt cũ."
 
 #. Translators: Describes the Insert Music Score dialog.
 #: addon\appModules\smb.py:70
 msgid "Call Insert Music Score dialog using Deprecated hotkey."
-msgstr "Gọi hộp thoại Insert Music Score  bằng phím tắt cũ."
+msgstr "Gọi hộp thoại Chèn Bản Nhạc bằng phím tắt cũ."
 
 #. Add-on summary/title, usually the user visible name of the add-on
 #. Translators: Summary/title for this add-on
