@@ -57,6 +57,9 @@ Subscribe/follow our channels below:
 
 # Change log
 
+## 2025.7.2
+- Updated input help for SMB's hotkeys
+
 ## 2025.7
 - Added SMB's hotkeys to a script category called "smb", allowing users to customize them while the focus is on  Sao Mai Braille window.
 - Compatiple with NVDA 2025.2

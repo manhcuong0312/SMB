@@ -1,7 +1,7 @@
 """
 Small add-on to make the main windows of Sao Mai Braille program accessible to NVDA
 Copyright 2022 - 2025 by Sao Mai technology team
-Last updated: June 30, 2025
+Last updated: July 2, 2025
 """
 
 import appModuleHandler
@@ -17,7 +17,7 @@ import api
 # The next two lines make this add-on translatable
 import addonHandler
 addonHandler.initTranslation()
-script_category = "SMB"
+script_category = "SMB" #add a category to NVDA's input gestures.
 
 class AppModule(appModuleHandler.AppModule):
 
@@ -41,7 +41,7 @@ class AppModule(appModuleHandler.AppModule):
 
     @script(
         # Translators: Describes the Insert equation dialog.
-        description=_("Call Insert equation dialog the old way."),
+        description=_("Call Insert equation dialog using Deprecated hotkey."),
         category=script_category,
         gesture="kb:alt+f9"
     )
@@ -54,7 +54,7 @@ class AppModule(appModuleHandler.AppModule):
 
     @script(
         # Translators: Describes the Insert picture dialog.
-        description=_("Call Insert picture dialog the old way."),
+        description=_("Call Insert picture dialog using Deprecated hotkey."),
         category=script_category,
         gesture="kb:alt+f10"
     )
@@ -67,7 +67,7 @@ class AppModule(appModuleHandler.AppModule):
 
     @script(
         # Translators: Describes the Insert Music Score dialog.
-        description=_("Call Insert Music Score dialog the old way."),
+        description=_("Call Insert Music Score dialog using Deprecated hotkey."),
         category=script_category,
 
         gesture="kb:alt+f11"
