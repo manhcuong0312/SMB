@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: 'SMB' '1.0'\n"
 "Report-Msgid-Bugs-To: 'nvda-translations@groups.io'\n"
-"POT-Creation-Date: 2025-07-02 10:11+0700\n"
-"PO-Revision-Date: 2025-07-02 14:12+0700\n"
+"POT-Creation-Date: 2025-09-10 13:28+0700\n"
+"PO-Revision-Date: 2025-09-10 13:30+0700\n"
 "Last-Translator: Dang Manh Cuong <dangmanhcuong@gmail.com>\n"
 "Language-Team: Vietnamese <tech@saomaicenter.org>\n"
 "Language: vi\n"
@@ -35,15 +35,28 @@ msgstr "Gọi hộp thoại Chèn Bản Nhạc bằng phím tắt cũ."
 #. Add-on summary/title, usually the user visible name of the add-on
 #. Translators: Summary/title for this add-on
 #. to be shown on installation and add-on information found in add-on store
-#: buildVars.py:23
+#: buildVars.py:21
 msgid "Sao Mai Braille (SMB)"
 msgstr "Sao Mai Braille (SMB)"
 
 #. Add-on description
 #. Translators: Long description to be shown for this add-on on add-on information from add-on store
-#: buildVars.py:26
+#: buildVars.py:24
 msgid "Add-on to make Sao Mai Braille Accessible to NVDA."
 msgstr "Add-on để Sao Mai Braille tiếp cận với NVDA."
+
+#. Brief changelog for this version
+#. Translators: what's new content for the add-on version to be shown in the add-on store
+#: buildVars.py:29
+msgid ""
+"- Updated to the newer version of add-on template.\n"
+"    - Compatiple with NVDA 2025.3.1."
+msgstr ""
+"- Cập nhật mẫu add-on mới hơn.\n"
+"    - Tương thích với NVDA 2025.3.1."
+
+#~ msgid "Used 2025 add-on template."
+#~ msgstr "Dùng mẫu add-on của năm 2025."
 
 #~ msgid "Add-on for Sao Mai Braille program."
 #~ msgstr "Add-on cho phần mềm Sao Mai Braille."

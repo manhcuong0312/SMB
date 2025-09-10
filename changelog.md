@@ -1,4 +1,16 @@
 # Change log for Sao Mai Braille (SMB) NVDA add-on
+## 2025.9.10
+- Updated to the newer version of add-on template
+- Compatiple with NVDA 2025.3.1
+
+## 2025.7.2
+- Updated input help for SMB's hotkeys.
+- Updated Vietnamese translation. Name of Insert Equation, Insert Picture, and Insert Music Score now matched the SMB' Vietnamese interface.
+
+## 2025.7
+- Added SMB's hotkeys to a script category called "smb", allowing users to customize them while the focus is on  Sao Mai Braille window.
+- Compatiple with NVDA 2025.2.
+
 ## 2025.5.22
 - If user press the deprecated keys at the wrong place, such as no document existed, an alert message will be spoken.
 
