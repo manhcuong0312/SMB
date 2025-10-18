@@ -1,7 +1,7 @@
 # SMB
 
 Sao Mai Braille yazılımı için NVDA eklentisi.  
-Sürüm: 25.5.22  
+Sürüm: 25.10  
 Telif Hakkı 2022 - 2025 Sao Mai Technology Group'a aittir.
 
 Sao Mai Braille (SMB), tarafından geliştirilen ücretsiz bir Braille metin editörü ve çeviri yazılımıdır.  
@@ -27,11 +27,13 @@ Yukarıda belirtilen kısayol tuşları yerine, aşağıdaki tuşlar kullanılac
 Bu yeni kısayol tuşları, kullanıcıların hatırlamasını kolaylaştırabilir.  
 Ancak, birçok kullanıcı eski klavye kısayollarına alışkın olabilir.  
 Bu nedenle, bu eklenti eski komut tuşlarını entegre etti, böylece her iki kısayol stilini de paralel olarak kullanabilirsiniz.  
-Bununla birlikte, yine de sağladıkları avantajlar nedeniyle yeni klavye kısayollarını kullanmanızı öneririz.
+Bununla birlikte, yine de sağladıkları avantajlar nedeniyle yeni klavye kısayollarını kullanmanızı öneririz.  
+
+Bu eklentinin 25.7 sürümünden itibaren, “smb” adlı bir dalı altına SMB kısayol tuşları ekledik. Böylece kullanıcılar, Sao Mai Braille penceresinde odaklandıklarında NVDA'nın Girdi Hareketleri iletişim kutusu aracılığıyla bu tuşları özelleştirebilirler.
 
 # Eklenti Çevirisi:
 
-Şu anda bu eklenti, eski SMB klavye kısayolları için giriş  yöntemleri için yardım dizgelerinin  yanı sıra bu Yardım dosyasını da içerir.  
+Şu anda bu eklenti, eski SMB klavye kısayol giriş  yöntemleri için yardım dizelerinin yanı sıra bu Yardım dosyasını da içerir.  
 [Bunları GitHub'da SMB kodu üzerinden çevirebilirsiniz.](https://github.com/manhcuong0312/SMB)  
 veya platformu kullanmaya aşina değilseniz, yardım ve geri bildirim bölümündeki bilgiler aracılığıyla bizimle iletişime geçebilirsiniz.
 
@@ -51,13 +53,26 @@ Körler için Sao Mai:
 
 Kanallarımıza abone olun/takip edin:
 
-- Bizden bildirim almak için şu adrese boş bir e-posta göndererek kaydolun: [tin+subscribe@saomaicenter.org](mailto:tin+subscribe@saomaicenter.org)
+- Bizden duyurular almak için şu adrese [boş bir e-posta göndererek kaydolun:](mailto:news+subscribe@saomaicenter.org)
 - E-Posta listesi: [https://groups.io/g/smcb](https://groups.io/g/smcb)
-- X: [x.com/SaoMaiCenter](https://x.com/saomaicenter)
+- Twitter: [x.com/SaoMaiCenter](https://x.com/saomaicenter)
 - Facebook: [fb.com/SaoMaiForTheBlind](https://www.facebook.com/saomaifortheblind)
 - Youtube: [https://www.youtube.com/@smcenter](https://www.youtube.com/@smcenter)
 
 # Değişiklik Günlüğü:
+
+## 2025.10
+- NVDA 2025.3 ile uyumlu.
+- Türkçe readme dosyası eklendi (Umut KORKMAZ'a teşekkürler).
+- Çeviriler güncellendi.
+
+## 2025.7.2
+- SMB'nin kısayol tuşları için giriş yardımı güncellendi.
+- Vietnamca çeviri güncellendi. Denklem Ekle, Resim Ekle ve Müzik Partisyonu Ekle'nin adı artık SMB'nin Vietnamca arayüzüyle eşleşiyor.
+
+## 2025.7
+- SMB'nin kısayol tuşları “smb” adlı bir dal altına eklendi, böylece kullanıcılar Sao Mai Braille penceresi odaklanmışken Girdi Hareketleri iletişim kutusundan bunları özelleştirebilirler.
+- NVDA 2025.2 ile uyumlu.
 
 ## 2025.5.22
 

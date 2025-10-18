@@ -1,4 +1,9 @@
 # Change log for Sao Mai Braille (SMB) NVDA add-on
+## 2025.10
+- Compatiple with NVDA 2025.3.
+- Added Turkish readme (Thanks to Umut KORKMAZ).
+- Updated translation.
+
 ## 2025.9.10
 - Updated to the newer version of add-on template
 - Compatiple with NVDA 2025.3.1
