@@ -1,17 +1,14 @@
 # SMB
-
 NVDA add-on cho phần mềm Sao Mai Braille  
-Phiên bản 25.7  
+Phiên bản 25.10  
 Bản quyền 2022 - 2025 bởi Nhóm Công Nghệ Sao Mai
 
 Sao Mai Braille (SMB) là phần mềm soạn thảo văn bản định dạng và chuyển dịch chữ nổi miễn phí, phát triển bởi
 [Sao Mai Vì Người Mù](https://www.saomaicenter.org/vi).
-Hiện tại, có một số vấn đề về tiếp cận mà không thể khắc phục trực tiếp trong chương trình.
-Vì vậy, add-on nhỏ này sẽ giúp trình đọc màn hình NVDA tiếp cận tốt hơn với giao diện của SMB.
+Hiện tại, có một số vấn đề về tiếp cận mà không thể khắc phục trực tiếp trong chương trình. Vì vậy, add-on nhỏ này sẽ giúp trình đọc màn hình NVDA tiếp cận tốt hơn với giao diện của SMB.
 Có thể xem thêm thông tin về chương trình SMB tại [https://www.saomaicenter.org/vi/smsoft/smb](https://www.saomaicenter.org/vi/smsoft/smb)
 
 # Các Phím tắt bị loại bỏ
-
 Kể từ phiên bản SMB 25.5, các phím tắt sau sẽ bị loại bỏ:
 
 - Alt+F9: mở hộp thoại Insert equation
@@ -28,12 +25,11 @@ Thay vào đó, chúng tôi sẽ sử dụng:
 Tuy nhiên, nhiều người dùng có thể đã quen với các phím tắt cũ.
 Vì vậy, add-on này đã tích hợp các phím lệnh cũ để bạn có thể sử dụng song song cả hai kiểu phím tắt.
 
-Từ phiên bản 25.7 của add-on này, chúng tôi thêm phím tắt của SMB vào phân loại tên SMB để người dùng có thể tùy chỉnh chúng thông qua hộp thoại Quản Lý Thao Tác của NVDA khi đứng tại cửa sổ Sao Mai Braille.
-
 Tuy nhiên, chúng tôi vẫn khuyến khích bạn dùng các phím tắt mới vì những lợi ích mà chúng mang lại.
 
-# Dịch add-on
+Từ phiên bản 25.7 của add-on này, chúng tôi thêm phím tắt của SMB vào phân loại tên SMB để người dùng có thể tùy chỉnh chúng thông qua hộp thoại Quản Lý Thao Tác của NVDA khi đứng tại cửa sổ Sao Mai Braille.
 
+# Dịch add-on
 Hiện tại, add-on này bao gồm các chuỗi thông báo trợ giúp nhập cho các phím tắt cũ của SMB, cũng như tập tin README này.
 Bạn có thể dịch chúng thông qua [kho mã SMB trên GitHub](https://github.com/manhcuong0312/SMB),
 hoặc liên hệ với chúng tôi qua thông tin trong phần trợ giúp và phản hồi nếu bạn không quen sử dụng nền tảng đó.
@@ -61,6 +57,15 @@ Sao Mai Vì Người Mù
 - Youtube: [https://www.youtube.com/@smcenter](https://www.youtube.com/@smcenter)
 
 # Nhật Kí thay đổi
+
+## 2025.10
+- Tương thích với NVDA 2025.3.
+- Thêm tập tin Readme cho ngôn ngữ Thổ Nhĩ Kỳ (Đóng góp bởi Umut KORKMAZ).
+- Cập nhật bản địa hóa.
+
+## 2025.7.2
+- Cập nhật trợ giúp nhập cho phím tắt của SMB.
+- Cập nhật bản dịch tiếng Việt. Các thuật ngữ Insert Equation, Insert Picture và Insert Music Score được dịch khớp với giao diện tiếng Việt của SMB.
 
 ## 2025.7
 - Thêm phím tắt của SMB vào phân loại tên SMB để người dùng có thể tùy chỉnh chúng thông qua hộp thoại Quản Lý Thao Tác của NVDA khi đứng tại cửa sổ Sao Mai Braille.
