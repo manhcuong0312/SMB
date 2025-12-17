@@ -1,7 +1,7 @@
 # SMB
 
 Sao Mai Braille yazılımı için NVDA eklentisi.  
-Sürüm: 25.10  
+Sürüm: 25.12  
 Telif Hakkı 2022 - 2025 Sao Mai Technology Group'a aittir.
 
 Sao Mai Braille (SMB), tarafından geliştirilen ücretsiz bir Braille metin editörü ve çeviri yazılımıdır.  
@@ -60,6 +60,11 @@ Kanallarımıza abone olun/takip edin:
 - Youtube: [https://www.youtube.com/@smcenter](https://www.youtube.com/@smcenter)
 
 # Değişiklik Günlüğü:
+
+## 2025.12
+- Kullanımdan kaldırılan kısayol tuşlarına yanlış yerde basıldığında çıkan uyarı mesajı çevrilebilir hale getirildi.
+- NVDA 2025.3.2 ile uyumlu.
+- Çeviriler güncellendi.
 
 ## 2025.10
 - NVDA 2025.3 ile uyumlu.

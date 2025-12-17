@@ -5,10 +5,10 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: 'SMB' '25.5.22'\n"
+"Project-Id-Version: 'SMB' '25.12'\n"
 "Report-Msgid-Bugs-To: 'nvda-translations@groups.io'\n"
-"POT-Creation-Date: 2025-09-10 13:28+0700\n"
-"PO-Revision-Date: 2025-10-17 14:36+0300\n"
+"POT-Creation-Date: 2025-12-17 14:28+0700\n"
+"PO-Revision-Date: 2025-12-17 13:23+0300\n"
 "Last-Translator: Umut KORKMAZ <umutkork@gmail.com>\n"
 "Language-Team: Umut KORKMAZ <umutkork@gmail.com>\n"
 "Language: tr_TR\n"
@@ -19,20 +19,26 @@ msgstr ""
 "X-Generator: Poedit 3.8\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 
+#: addon\appModules\smb.py:18
+msgid "Focus is not in a print, or braille document."
+msgstr "Odak bir basılı belge veya braille belgesinde değil."
+
 #. Translators: Describes the Insert equation dialog.
-#: addon\appModules\smb.py:44
-msgid "Call Insert equation dialog using Deprecated hotkey."
-msgstr "Eski kısayol tuşunu kullanarak Denklem ekle iletişim kutusunu çağırır."
+#: addon\appModules\smb.py:42
+#| msgid "Call Insert equation dialog using Deprecated hotkey."
+msgid "Call Insert equation dialog the old way."
+msgstr "Denklem ekle iletişim kutusunu eski yöntemle çağırır."
 
 #. Translators: Describes the Insert picture dialog.
-#: addon\appModules\smb.py:57
-msgid "Call Insert picture dialog using Deprecated hotkey."
-msgstr "Eski kısayol tuşunu kullanarak resim ekle iletişim kutusunu çağırır."
+#: addon\appModules\smb.py:55
+msgid "Call Insert picture dialog the old way."
+msgstr "Resim ekle iletişim kutusunu eski yöntemle çağırır."
 
 #. Translators: Describes the Insert Music Score dialog.
-#: addon\appModules\smb.py:70
-msgid "Call Insert Music Score dialog using Deprecated hotkey."
-msgstr "Eski kısayol tuşunu kullanarak Müzik Partisyonu Ekle iletişim kutusunu çağırır."
+#: addon\appModules\smb.py:67
+#| msgid "Call Insert Music Score dialog using Deprecated hotkey."
+msgid "Call Insert Music Score dialog the old way."
+msgstr "Müzik Partisyonu Ekle iletişim kutusunu eski yöntemle çağırır."
 
 #. Add-on summary/title, usually the user visible name of the add-on
 #. Translators: Summary/title for this add-on
@@ -45,17 +51,36 @@ msgstr "Sao Mai Braille (SMB)"
 #. Translators: Long description to be shown for this add-on on add-on information from add-on store
 #: buildVars.py:24
 msgid "Add-on to make Sao Mai Braille Accessible to NVDA."
-msgstr "Sao Mai Braille programını NVDA için Erişilebilir hale getiren eklenti."
+msgstr ""
+"Sao Mai Braille programını NVDA için Erişilebilir hale getiren eklenti."
 
 #. Brief changelog for this version
 #. Translators: what's new content for the add-on version to be shown in the add-on store
 #: buildVars.py:29
 msgid ""
-"- Updated to the newer version of add-on template.\n"
-"    - Compatiple with NVDA 2025.3.1."
+"- Make the alert message     when press the deprecated hotkeys at wrong "
+"place translatable.\n"
+"- Compatiple with NVDA 2025.3.2.\n"
+"- Updated translation.\n"
 msgstr ""
-"- Updated to the newer version of add-on template.\n"
-"    - NVDA 2025.3.1 ile uyumludur."
+"- Kullanımdan kaldırılan kısayol tuşlarına yanlış yerde basıldığında çıkan "
+"uyarı mesajı çevrilebilir hale getirildi.\n"
+"- NVDA 2025.3.2 ile uyumlu.\n"
+"- Çeviriler güncellendi.\n"
+
+#~| msgid ""
+#~| "- Updated to the newer version of add-on template.\n"
+#~| "    - Compatiple with NVDA 2025.3.1."
+#~ msgid ""
+#~ "- Updated to the newer version of add-on template.\n"
+#~ "    - Compatiple with NVDA 2025.3.1.\n"
+#~ "Added Turkish readme (Thanks to Umut KORKMAZ).\n"
+#~ "Updated translation.\n"
+#~ msgstr ""
+#~ "- Eklenti şablonunun daha yeni sürümüne güncellendi.\n"
+#~ "    - NVDA 2025.3.1 ile uyumlu.\n"
+#~ "Türkçe benioku eklendi (Umut KORKMAZ'a teşekkürler).\n"
+#~ "Çeviriler güncellendi.\n"
 
 #~ msgid "Add-on for Sao Mai Braille program."
 #~ msgstr "Sao Mai Braille programı için eklenti."
