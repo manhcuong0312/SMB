@@ -1,4 +1,9 @@
 # Change log for Sao Mai Braille (SMB) NVDA add-on
+## 2025.12
+- Make the alert message     when press the deprecated hotkeys at wrong place translatable.
+- Compatiple with NVDA 2025.3.2.
+- Updated translation.
+
 ## 2025.10
 - Compatiple with NVDA 2025.3.
 - Added Turkish readme (Thanks to Umut KORKMAZ).

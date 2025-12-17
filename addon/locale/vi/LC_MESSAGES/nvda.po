@@ -7,29 +7,33 @@ msgid ""
 msgstr ""
 "Project-Id-Version: 'SMB' '1.0'\n"
 "Report-Msgid-Bugs-To: 'nvda-translations@groups.io'\n"
-"POT-Creation-Date: 2025-09-10 13:28+0700\n"
-"PO-Revision-Date: 2025-09-10 13:30+0700\n"
+"POT-Creation-Date: 2025-12-17 10:26+0700\n"
+"PO-Revision-Date: 2025-12-17 14:33+0700\n"
 "Last-Translator: Dang Manh Cuong <dangmanhcuong@gmail.com>\n"
 "Language-Team: Vietnamese <tech@saomaicenter.org>\n"
 "Language: vi\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.6.11\n"
+"X-Generator: Poedit 3.8\n"
+
+#: addon\appModules\smb.py:18
+msgid "Focus is not in a print, or braille document."
+msgstr "Con trỏ không ở trong tài liệu chữ in hoặc tài liệu Braille."
 
 #. Translators: Describes the Insert equation dialog.
-#: addon\appModules\smb.py:44
-msgid "Call Insert equation dialog using Deprecated hotkey."
+#: addon\appModules\smb.py:42
+msgid "Call Insert equation dialog the old way."
 msgstr "Gọi hộp thoại Chèn Biểu Thức bằng phím tắt cũ."
 
 #. Translators: Describes the Insert picture dialog.
-#: addon\appModules\smb.py:57
-msgid "Call Insert picture dialog using Deprecated hotkey."
+#: addon\appModules\smb.py:55
+msgid "Call Insert picture dialog the old way."
 msgstr "Gọi hộp thoại Chèn Hình Ảnh bằng phím tắt cũ."
 
 #. Translators: Describes the Insert Music Score dialog.
-#: addon\appModules\smb.py:70
-msgid "Call Insert Music Score dialog using Deprecated hotkey."
+#: addon\appModules\smb.py:67
+msgid "Call Insert Music Score dialog the old way."
 msgstr "Gọi hộp thoại Chèn Bản Nhạc bằng phím tắt cũ."
 
 #. Add-on summary/title, usually the user visible name of the add-on
@@ -49,11 +53,22 @@ msgstr "Add-on để Sao Mai Braille tiếp cận với NVDA."
 #. Translators: what's new content for the add-on version to be shown in the add-on store
 #: buildVars.py:29
 msgid ""
-"- Updated to the newer version of add-on template.\n"
-"    - Compatiple with NVDA 2025.3.1."
+"- Make the alert message     when press the deprecated hotkeys at wrong "
+"place translatable.\n"
+"- Compatiple with NVDA 2025.3.2.\n"
+"Updated translation.\n"
 msgstr ""
-"- Cập nhật mẫu add-on mới hơn.\n"
-"    - Tương thích với NVDA 2025.3.1."
+"- Cho phép bản địa hóa thông điệp cảnh báo khi dùng các phím tắt cũ không "
+"đúng chỗ.\n"
+"- Tương thích với NVDA 2025.3.2.\n"
+"- Cập nhật bản địa hóa.\n"
+
+#~ msgid ""
+#~ "- Updated to the newer version of add-on template.\n"
+#~ "    - Compatiple with NVDA 2025.3.1."
+#~ msgstr ""
+#~ "- Cập nhật mẫu add-on mới hơn.\n"
+#~ "    - Tương thích với NVDA 2025.3.1."
 
 #~ msgid "Used 2025 add-on template."
 #~ msgstr "Dùng mẫu add-on của năm 2025."

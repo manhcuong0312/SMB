@@ -23,13 +23,12 @@ addon_info = AddonInfo(
 	# Translators: Long description to be shown for this add-on on add-on information from add-on store
 	addon_description=_("""Add-on to make Sao Mai Braille Accessible to NVDA."""),
 	# version
-	addon_version="25.10",
+	addon_version="25.12",
 	# Brief changelog for this version
 	# Translators: what's new content for the add-on version to be shown in the add-on store
-	addon_changelog=_("""- Updated to the newer version of add-on template.
-    - Compatiple with NVDA 2025.3.1.
-Added Turkish readme (Thanks to Umut KORKMAZ).
-Updated translation.
+	addon_changelog=_("""- Make the alert message     when press the deprecated hotkeys at wrong place translatable.
+- Compatiple with NVDA 2025.3.2.
+- Updated translation.
 """),
 	# Author(s)
 	addon_author="Sao Mai Technology team <tech@saomaicenter.org>",
@@ -42,7 +41,7 @@ Updated translation.
 	# Minimum NVDA version supported (e.g. "2019.3.0", minor version is optional)
 	addon_minimumNVDAVersion="2022.1.0",
 	# Last NVDA version supported/tested (e.g. "2024.4.0", ideally more recent than minimum version)
-	addon_lastTestedNVDAVersion="2025.3.1",
+	addon_lastTestedNVDAVersion="2025.3.2",
 	# Add-on update channel (default is None, denoting stable releases,
 	# and for development releases, use "dev".)
 	# Do not change unless you know what you are doing!
