@@ -1,7 +1,7 @@
 # SMB
 NVDA add-on cho phần mềm Sao Mai Braille  
-Phiên bản 25.12  
-Bản quyền 2022 - 2025 bởi Nhóm Công Nghệ Sao Mai
+Phiên bản 26.11  
+Bản quyền 2022 - 2026 bởi Nhóm Công Nghệ Sao Mai
 
 Sao Mai Braille (SMB) là phần mềm soạn thảo văn bản định dạng và chuyển dịch chữ nổi miễn phí, phát triển bởi
 [Sao Mai Vì Người Mù](https://www.saomaicenter.org/vi).
@@ -57,6 +57,16 @@ Sao Mai Vì Người Mù
 - Youtube: [https://www.youtube.com/@smcenter](https://www.youtube.com/@smcenter)
 
 # Nhật Kí thay đổi
+
+## 2026.11
+
+- Tương thích với NVDA 2026.3
+- Cập nhật bản địa hóa
+
+## 2026.5
+
+- Tương thích với NVDA 2026.1
+- Cập nhật bản địa hóa
 
 ## 2025.12
 - - Cho phép bản địa hóa thông điệp cảnh báo khi dùng các phím tắt cũ không đúng chỗ.

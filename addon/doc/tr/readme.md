@@ -29,7 +29,7 @@ Ancak, birçok kullanıcı eski klavye kısayollarına alışkın olabilir.
 Bu nedenle, bu eklenti eski komut tuşlarını entegre etti, böylece her iki kısayol stilini de paralel olarak kullanabilirsiniz.  
 Bununla birlikte, yine de sağladıkları avantajlar nedeniyle yeni klavye kısayollarını kullanmanızı öneririz.  
 
-Bu eklentinin 25.7 sürümünden itibaren, “smb” adlı bir dalı altına SMB kısayol tuşları ekledik. Böylece kullanıcılar, Sao Mai Braille penceresinde odaklandıklarında NVDA'nın Girdi Hareketleri iletişim kutusu aracılığıyla bu tuşları özelleştirebilirler.
+Bu eklentinin 25.7 sürümünden itibaren, “smb” adlı bir dal altına SMB kısayol tuşları ekledik. Böylece kullanıcılar, Sao Mai Braille penceresinde odaklandıklarında NVDA'nın Girdi Hareketleri iletişim kutusu aracılığıyla bu tuşları özelleştirebilirler.
 
 # Eklenti Çevirisi:
 
@@ -60,6 +60,10 @@ Kanallarımıza abone olun/takip edin:
 - Youtube: [https://www.youtube.com/@smcenter](https://www.youtube.com/@smcenter)
 
 # Değişiklik Günlüğü:
+
+## 2026.5
+- NVDA 2026.1 ile uyumlu
+- Çeviriler güncellendi.
 
 ## 2025.12
 - Kullanımdan kaldırılan kısayol tuşlarına yanlış yerde basıldığında çıkan uyarı mesajı çevrilebilir hale getirildi.

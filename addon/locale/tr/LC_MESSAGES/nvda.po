@@ -5,10 +5,10 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: 'SMB' '25.12'\n"
+"Project-Id-Version: SMB\n"
 "Report-Msgid-Bugs-To: 'nvda-translations@groups.io'\n"
-"POT-Creation-Date: 2025-12-17 14:28+0700\n"
-"PO-Revision-Date: 2025-12-17 13:23+0300\n"
+"POT-Creation-Date: 2026-05-04 09:21+0700\n"
+"PO-Revision-Date: 2026-05-05 21:45+0300\n"
 "Last-Translator: Umut KORKMAZ <umutkork@gmail.com>\n"
 "Language-Team: Umut KORKMAZ <umutkork@gmail.com>\n"
 "Language: tr_TR\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Poedit 3.8\n"
+"X-Generator: Poedit 3.9\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 
 #: addon\appModules\smb.py:18
@@ -25,7 +25,6 @@ msgstr "Odak bir basılı belge veya braille belgesinde değil."
 
 #. Translators: Describes the Insert equation dialog.
 #: addon\appModules\smb.py:42
-#| msgid "Call Insert equation dialog using Deprecated hotkey."
 msgid "Call Insert equation dialog the old way."
 msgstr "Denklem ekle iletişim kutusunu eski yöntemle çağırır."
 
@@ -36,7 +35,6 @@ msgstr "Resim ekle iletişim kutusunu eski yöntemle çağırır."
 
 #. Translators: Describes the Insert Music Score dialog.
 #: addon\appModules\smb.py:67
-#| msgid "Call Insert Music Score dialog using Deprecated hotkey."
 msgid "Call Insert Music Score dialog the old way."
 msgstr "Müzik Partisyonu Ekle iletişim kutusunu eski yöntemle çağırır."
 
@@ -51,22 +49,26 @@ msgstr "Sao Mai Braille (SMB)"
 #. Translators: Long description to be shown for this add-on on add-on information from add-on store
 #: buildVars.py:24
 msgid "Add-on to make Sao Mai Braille Accessible to NVDA."
-msgstr ""
-"Sao Mai Braille programını NVDA için Erişilebilir hale getiren eklenti."
+msgstr "Sao Mai Braille programını NVDA için Erişilebilir hale getiren eklenti."
 
 #. Brief changelog for this version
 #. Translators: what's new content for the add-on version to be shown in the add-on store
 #: buildVars.py:29
 msgid ""
-"- Make the alert message     when press the deprecated hotkeys at wrong "
-"place translatable.\n"
-"- Compatiple with NVDA 2025.3.2.\n"
-"- Updated translation.\n"
+"- Compatiple with NVDA 2026.1\n"
+"- Updated translation\n"
 msgstr ""
-"- Kullanımdan kaldırılan kısayol tuşlarına yanlış yerde basıldığında çıkan "
-"uyarı mesajı çevrilebilir hale getirildi.\n"
-"- NVDA 2025.3.2 ile uyumlu.\n"
-"- Çeviriler güncellendi.\n"
+"- NVDA 2026.1 ile uyumlu\n"
+"- Çeviriler güncellendi\n"
+
+#~ msgid ""
+#~ "- Make the alert message     when press the deprecated hotkeys at wrong place translatable.\n"
+#~ "- Compatiple with NVDA 2025.3.2.\n"
+#~ "- Updated translation.\n"
+#~ msgstr ""
+#~ "- Kullanımdan kaldırılan kısayol tuşlarına yanlış yerde basıldığında çıkan uyarı mesajı çevrilebilir hale getirildi.\n"
+#~ "- NVDA 2025.3.2 ile uyumlu.\n"
+#~ "- Çeviriler güncellendi.\n"
 
 #~| msgid ""
 #~| "- Updated to the newer version of add-on template.\n"
